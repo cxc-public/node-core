@@ -56,7 +56,7 @@
     "nodemailer": "^4.6.8",
     "nodemailer-smtp-transport": "^2.7.4",
     "path": "^0.12.7",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "restful-filter": "^1.1.3",
